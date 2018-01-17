@@ -1,0 +1,38 @@
+竞赛经历
+全国大学生数学建模全国二等奖
+全国大学生数学建模上海一等奖
+中国大学生程序设计竞赛（CCPC）银牌
+
+科研经历
+corMATS算法并行加速
+2016.02-2017.02
+University of California, Los Angeles, Prof.Yi Xing
+Objective: 通过并行化加速corMATS算法
+主要成果： 算法并行优化使算法比原有实现加速了66倍
+
+期货财经新闻分析与推荐系统
+2016.07-2016.11
+Tongji Zhishu实验室 Prof.Rao Weixiong
+Objective：通过将文本的财经新闻与期货及各经济指标数据融合分析，并给予用户一定程度的推荐
+基于主题模型提取文本数据中的主题信息
+使用关联法则发掘与指标数据相关的信息
+通过信息构建深度回归模型，对指标进行预测的同时，
+挖掘不同主题的财经新闻的权重，对于某期货推荐相关的新闻
+
+基于可穿戴设备的喝水量监控
+2017.06-2018.05
+Warwick University & 
+Objective：使用Google Glass和Google Wear对每个人的喝水量进行监控
+使用Google Glass基于视觉检测喝水状态与引用液体的种类
+使用Google Wear对喝水量进行检测估计
+
+脑影像弱监督定位与分割
+2017.06-2018.12
+Warwick University Prof.Feng Jianfeng & Prof.Wen Hongkai
+Object：对脑影像关于某一关键标签的弱监督关键区域定位与分割
+弱监督定位与分割算法探索
+针对关键标签（如肿瘤等）进行弱监督的区域定位与分割
+
+技术：
+熟悉各种语言：C，Java，Python
+熟悉深度学习框架：Tensorflow等

@@ -1,0 +1,15 @@
+# Skills
+# Donut design
+- skill: 机器学习
+  description: 熟悉部分机器学习算法，熟悉使用scikit-learn等开源库
+
+# Craft beer brewing
+- skill: 深度学习
+  description: 熟悉使用深度学习解决计算机视觉问题，熟悉深度学习框架Tensorflow等
+
+# Family leadership
+- skill: 并行计算
+  description: 熟悉使用Python，C等语言的并行方法与开发
+
+- skill: 后端开发
+  description: 熟悉Spring等网页后端的开发
