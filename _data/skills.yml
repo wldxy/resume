@@ -14,7 +14,7 @@
 # - skill: 后端开发
 #   description: 熟悉Spring等网页后端的开发
 
-Skills
+# Skills
 - skill: 机器学习 & 深度学习
   description: 熟悉部分机器学习算法，使用深度学习解决计算机视觉问题，熟悉使用scikit-learn等开源机器学习库以及Tensorflow等深度学习框架
 
